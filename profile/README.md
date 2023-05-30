@@ -20,9 +20,9 @@ We believe in the open-source spirit and the strength of collective knowledge. H
 
 - **Spread the Word:** Help us grow the Cosmos community by sharing our organization and repositories with your friends, colleagues, and fellow developers.
 
-## Connect with Us! 🍿
+## Connect with Us 🍿
 
-Stay in the loop with the latest updates, releases, and happenings at Cosmos. Connect with us on:
+Stay in the loop with the latest at Cosmos. Connect with us on:
 
 - **Website:** [https://golivecosmos.com](https://golivecosmos.com)
 - **Twitter:** [@GoLiveCosmos](https://twitter.com/GoLiveCosmos)
