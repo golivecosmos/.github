@@ -1,10 +1,10 @@
 # Welcome to Cosmos ☄
 
-Hi, fellow developers 👋, welcome to our Github org. We're here to share a range of tools, libraries, and resources that will make your work easier and more efficient.
+Hi, welcome to our Github org. We're here to share tools, libraries, and resources that will make your work easier.
 
 ## Who are we? 🙋‍♀️
 
-We are developers who believe in the power of collaboration and the satisfaction of building sick software. We've come together from different corners of the coding universe to share our knowledge, experiences, and creations with the global developer community.
+We are developers who believe in the power of collaboration and enjoy sharing tools as we learn new ways of working efficiently.
 
 ## What do we offer? 👩‍💻
 
