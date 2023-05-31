@@ -4,7 +4,7 @@ Hi, welcome to our Github org. We're here to share tools, libraries, and resourc
 
 ## Who are we? 🙋‍♀️
 
-We are developers who believe in the power of collaboration and enjoy sharing tools as we learn new ways of working efficiently.
+We are developers who enjoy sharing tools as we learn new ways of working efficiently.
 
 ## What do we offer? 👩‍💻
 
