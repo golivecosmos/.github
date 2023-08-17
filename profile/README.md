@@ -24,7 +24,7 @@ Here's how you can contribute and participate:
 
 Stay in the loop with the latest at Cosmos. Connect with us on:
 
-- **Website:** [https://golivecosmos.com](https://golivecosmos.com?utm_source=githube&utm_medium=referral&utm_campaign=org-page)
-- **Web App** [https://app.golivecosmos.com](https://app.golivecosmos.com/user/signup?utm_source=githube&utm_medium=referral&utm_campaign=org-page)
+- **Website:** [https://golivecosmos.com](https://golivecosmos.com?utm_source=github&utm_medium=referral&utm_campaign=org-page)
+- **Web App** [https://app.golivecosmos.com](https://app.golivecosmos.com/user/signup?utm_source=github&utm_medium=referral&utm_campaign=org-page)
 - **Twitter:** [@GoLiveCosmos](https://twitter.com/GoLiveCosmos)
-- **Blog:** [https://blog.golivecosmos.com](https://blog.golivecosmos.com?utm_source=githube&utm_medium=referral&utm_campaign=org-page)
+- **Blog:** [https://blog.golivecosmos.com](https://blog.golivecosmos.com?utm_source=github&utm_medium=referral&utm_campaign=org-page)
